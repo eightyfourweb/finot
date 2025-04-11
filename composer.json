@@ -1,6 +1,6 @@
 {
   "name": "eightyfourweb/finot",
-  "description": "PHP Application",
+  "description": "PHP Library",
   "version": "dev-0.0.001",
   "type": "project",
   "license": ["proprietary"],
